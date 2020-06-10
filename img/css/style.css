@@ -139,6 +139,10 @@ p{
     color: #333;
     background: #f7c08a;
 }
+
+.clr{
+    clear:both;
+}
 #home-info{
     height:400px;
    
@@ -179,4 +183,13 @@ p{
 
 .box i{
     margin-bottom: 10px;
+}
+
+/* footer*/
+#main-footer{
+    text-align: center;
+    background:#444;
+    color:#fff;
+    padding:20px;
+
 }
